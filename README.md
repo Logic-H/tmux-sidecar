@@ -1,5 +1,8 @@
 # Tmux Sidecar (tmux-sidecar)
 
+<video src="assets/demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
 Tmux Sidecar is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that turns your terminal into an AI-native workspace. It allows AI agents to "sit" alongside you in your Tmux session, observing output and executing commands just like a pair programmer.
 
 ## The Sidecar Philosophy
