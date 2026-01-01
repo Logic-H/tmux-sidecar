@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tmux-native": {
+      "command": "uv",
+      "args": [
+        "tool",
+        "run",
+        "tmux-mcp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[project]
+name = "tmux-mcp"
+version = "0.1.0"
+description = "A native Tmux MCP server for AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp",
+]
+
+[project.scripts]
+tmux-mcp = "tmux_mcp.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
